@@ -14,5 +14,5 @@ Welcome! I am Zhuo Wei, a penultimate student pursuing Materials Science and Eng
 
 The report shows the expenses, sales and income generated from my sneaker business.
 
-\_PS. Yes, I still have 29 shoes to sell..._
+_PS. Yes, I still have 29 shoes to sell..._
 
