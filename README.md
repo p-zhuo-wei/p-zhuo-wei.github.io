@@ -21,3 +21,7 @@ The report shows the expenses, sales and income generated from my sneaker busine
 _PS. Yes, I still have 29 shoes to sell..._
 
 **2. Stock Data Analysis Project (Coming Soon)** 
+
+
+>Datasets Used:
+>1. Sneakers Sales Analytics Report: https://docs.google.com/spreadsheets/d/e/2PACX-1vSeekmk2WW7WAmwtE2977h0esoQ1barPketownHzGisQejuuuyu7nLWrwqzNFd0mRONh-uE6gAlcNSw/pubhtml
