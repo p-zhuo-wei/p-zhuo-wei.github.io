@@ -6,7 +6,7 @@ Welcome! I am Zhuo Wei, a penultimate student pursuing Materials Science and Eng
 **This portfolio will primarily feature my projects, offering a glimpse into my skills and capabilities in data analysis.**
 
 ### Technical Skills:
-Python, SQL, Microsoft Excel, Power Automate, Streamlit, Dash, Power BI, Tableau (Currently Learning).
+Python, SQL, Microsoft Excel, Power Query, Power Automate, Streamlit, Dash, Power BI, Tableau (Currently Learning).
 
 ## Projects
 **Sneakers Sales Analytics Report (Power BI)**
