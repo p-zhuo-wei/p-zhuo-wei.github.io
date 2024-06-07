@@ -11,6 +11,7 @@ Python, SQL, Microsoft Excel, Power Query, Power Automate, Streamlit, Dash, Powe
 ## Projects
 **1. Sneakers Sales Analytics Report (Power BI)**
 - A project I did on my sneaker sales back in 2020-2022.
+- [Dataset](https://docs.google.com/spreadsheets/d/e/2PACX-1vSeekmk2WW7WAmwtE2977h0esoQ1barPketownHzGisQejuuuyu7nLWrwqzNFd0mRONh-uE6gAlcNSw/pubhtml)
   
 ![image](https://github.com/p-zhuo-wei/p-zhuo-wei.github.io/assets/137416262/859e173e-95cf-4078-8932-4d9393f8dc33)
 ![image](https://github.com/p-zhuo-wei/p-zhuo-wei.github.io/assets/137416262/78aa15d2-b747-45fb-90ac-a97eba718058)
@@ -23,5 +24,6 @@ _PS. Yes, I still have 29 shoes to sell..._
 **2. Stock Data Analysis Project (Coming Soon)** 
 
 
->Datasets Used:
->1. Sneakers Sales Analytics Report: https://docs.google.com/spreadsheets/d/e/2PACX-1vSeekmk2WW7WAmwtE2977h0esoQ1barPketownHzGisQejuuuyu7nLWrwqzNFd0mRONh-uE6gAlcNSw/pubhtml
+-------------------------------------------------
+
+
