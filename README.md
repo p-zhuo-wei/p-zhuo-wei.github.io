@@ -3,8 +3,8 @@
 ### About me
 Welcome! I am Zhuo Wei, a penultimate student pursuing Materials Science and Engineering with a minor in data analyics and data engineering in National University of Singapore. I am a driven, analytical and curious individual with a strong interest in Business Intelligence, Data Analysis and Finance. I excel at extracting and analysing complex data to drive decision making. I am currently looking for opportunities in the trading sector, hoping to learn more about the industry and expand my skills in financial analysis, risk management and market forecasting. I had previously learnt about trading, sepcifically stocks, options and forex in my own free time back in 2021. I have been personally trading in the financial markets since then and have found both enjoyment and success. I aim to deepen my expertise and pursue a rewarding career in this sector. 
 
-This portfolio will primarily feature my projects, offering a glimpse into my skills and capabilities in data analysis.
-
+_**This portfolio will primarily feature my projects, offering a glimpse into my skills and capabilities in data analysis.**
+_
 ### Technical Skills:
 Python, SQL, Microsoft Excel, Power Automate, Streamlit, Dash, Power BI, Tableau (Currently Learning).
 
