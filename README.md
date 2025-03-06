@@ -24,7 +24,7 @@ _PS. Yes, I still have 29 shoes to sell..._
 **2. Machine Learning on Resale Prices of HDB Flats in Singapore (up till Oct 2024) - R** 
 - Techniques used: Simple/Multi-linear Regression, Regularisation
 - School project on predicting resale prices of HDB Flats in Singapore
-- [Report](https://github.com/p-zhuo-wei/HDB-Resale-SG/tree/main/report)
+- [Report](https://github.com/p-zhuo-wei/HDB-Resale-SG/tree/1c0e80203c2634d542f9d09b9b3859aba5deddf8/report)
 
 _Full Breakdown of Data files and Scripts can be found in [this](https://github.com/p-zhuo-wei/HDB-Resale-SG/tree/main) repository_
 
