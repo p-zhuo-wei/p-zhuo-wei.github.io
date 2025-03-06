@@ -1,0 +1,3 @@
+[submodule "HDB-Resale-SG"]
+	path = HDB-Resale-SG
+	url = https://github.com/p-zhuo-wei/HDB-Resale-SG.git
