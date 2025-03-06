@@ -21,7 +21,10 @@ The report shows the expenses, sales and income generated from my sneaker busine
 
 _PS. Yes, I still have 29 shoes to sell..._
 
-**2. Stock Data Analysis Project (Coming Soon)** 
+**2. Machine Learning on Resale Prices of HDB Flats in Singapore (up till Oct 2024) - R** 
+- Techniques used: Simple/Multi-linear Regression, Regularisation
+- School project on predicting resale prices of HDB Flats in Singapore
+
 
 
 -------------------------------------------------
